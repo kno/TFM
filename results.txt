@@ -1,0 +1,131 @@
+model = keras.Sequential([
+        keras.layers.Flatten(input_shape=(res, res, res)),
+        keras.layers.Dense(res*2, activation='relu'),
+        keras.layers.Dense(res, activation='relu'),
+        keras.layers.Dense(num_classes, activation='softmax')
+    ])
+model.compile(optimizer='adam',
+      loss='sparse_categorical_crossentropy',
+      metrics=['accuracy'])
+
+validation_split = 0.1
+verbosity = 2
+epochs = 20
+
+Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+
+Test accuracy with res 24: 0.7787021398544312
+Test accuracy with res 32: 0.777870237827301
+Test accuracy with res 48: 0.777870237827301
+
+================================================================================================================
+
+model = keras.Sequential([
+        keras.layers.Flatten(input_shape=(res, res, res)),
+        keras.layers.Dense(res*2, activation='relu'),
+        keras.layers.Dense(res, activation='relu'),
+        keras.layers.Dense(num_classes, activation='softmax')
+    ])
+model.compile(optimizer='adam',
+      loss='sparse_categorical_crossentropy',
+      metrics=['accuracy'])
+
+without validation_split
+verbosity = 2
+epochs = 20
+
+Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+
+Test accuracy width res 24: 0.8660565614700317
+Test accuracy width res 32: 0.8660565614700317
+Test accuracy width res 48: 0.8735440969467163
+
+================================================================================================================
+
+model = keras.Sequential([
+        keras.layers.Flatten(input_shape=(res, res, res)),
+        keras.layers.Dense(res*2, activation='relu'),
+        keras.layers.Dense(res, activation='relu'),
+        keras.layers.Dense(num_classes, activation='softmax')
+    ])
+model.compile(optimizer='adam',
+      loss='sparse_categorical_crossentropy',
+      metrics=['accuracy'])
+
+without validation_split
+verbosity = 0
+epochs = 30
+
+Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+
+Test accuracy width res 24: 0.8693843483924866
+Test accuracy width res 32: 0.8793677091598511
+Test accuracy width res 48: 0.8635607361793518
+
+================================================================================================================
+
+model = keras.Sequential([
+    keras.layers.Flatten(input_shape=(res, res, res)),
+    keras.layers.Dense(res*2, activation='relu'),
+    keras.layers.Dense(res, activation='relu'),
+    keras.layers.Dense(num_classes, activation='softmax')
+])
+
+learning_rate = 0.0001
+
+model.compile(optimizer=keras.optimizers.Adam(lr=learning_rate)
+              loss='sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+              
+without validation_split
+verbosity = 0
+epochs = 30
+
+Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+
+Test accuracy width res 24: 0.8494176268577576
+Test accuracy width res 32: 0.8594009876251221
+Test accuracy width res 48: 0.8344426155090332
+
+================================================================================================================
+
+model = keras.Sequential([
+    keras.layers.Flatten(input_shape=(res, res, res)),
+    keras.layers.Dense(res*2, activation='relu'),
+    keras.layers.Dense(res, activation='relu'),
+    keras.layers.Dense(num_classes, activation='softmax')
+])
+
+learning_rate = 0.0001
+
+model.compile(optimizer=keras.optimizers.Adam(lr=learning_rate)
+              loss='sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+              
+without validation_split
+verbosity = 0
+epochs = 30
+
+Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+
+Test accuracy for 10 classes width res 24: 0.9112675786018372
+Test accuracy for 10 classes width res 32: 0.908450722694397
+Test accuracy for 10 classes width res 48: 0.9070422649383545
+
+Test accuracy for 20 classes width res 24: 0.8527454137802124
+Test accuracy for 20 classes width res 32: 0.8594009876251221
+Test accuracy for 20 classes width res 48: 0.8510815501213074
+
+Test accuracy for 30 classes width res 24: 0.7548179626464844
+Test accuracy for 30 classes width res 32: 0.7740899324417114
+Test accuracy for 30 classes width res 48: 0.7682012915611267
+
+Test accuracy for 40 classes width res 24: 0.7115073204040527
+Test accuracy for 40 classes width res 32: 0.7135332226753235
+Test accuracy for 40 classes width res 48: 0.7029983997344971
+
+
+
+
+
+
