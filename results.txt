@@ -12,7 +12,7 @@ validation_split = 0.1
 verbosity = 2
 epochs = 20
 
-Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+Flat + Dense(2*res) + Dense(res) + Dense(num_classes)
 
 Test accuracy with res 24: 0.7787021398544312
 Test accuracy with res 32: 0.777870237827301
@@ -34,7 +34,7 @@ without validation_split
 verbosity = 2
 epochs = 20
 
-Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+Flat + Dense(2*res) + Dense(res) + Dense(num_classes)
 
 Test accuracy width res 24: 0.8660565614700317
 Test accuracy width res 32: 0.8660565614700317
@@ -56,7 +56,7 @@ without validation_split
 verbosity = 0
 epochs = 30
 
-Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+Flat + Dense(2*res) + Dense(res) + Dense(num_classes)
 
 Test accuracy width res 24: 0.8693843483924866
 Test accuracy width res 32: 0.8793677091598511
@@ -81,7 +81,7 @@ without validation_split
 verbosity = 0
 epochs = 30
 
-Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+Flat + Dense(2*res) + Dense(res) + Dense(num_classes)
 
 Test accuracy width res 24: 0.8494176268577576
 Test accuracy width res 32: 0.8594009876251221
@@ -106,7 +106,7 @@ without validation_split
 verbosity = 0
 epochs = 30
 
-Fat + Dense(2*res) + Dense(res) + Dense(num_classes)
+Flat + Dense(2*res) + Dense(res) + Dense(num_classes)
 
 Test accuracy for 10 classes width res 24: 0.9112675786018372
 Test accuracy for 10 classes width res 32: 0.908450722694397
@@ -125,7 +125,73 @@ Test accuracy for 40 classes width res 32: 0.7135332226753235
 Test accuracy for 40 classes width res 48: 0.7029983997344971
 
 
+================================================================================================================
 
+75% of Training set
+model = keras.Sequential([
+    keras.layers.Flatten(input_shape=(res, res, res)),
+    keras.layers.Dense(res*2, activation='relu'),
+    keras.layers.Dense(res, activation='relu'),
+    keras.layers.Dense(num_classes, activation='softmax')
+])
 
+learning_rate = 0.0001
 
+model.compile(optimizer=keras.optimizers.Adam(lr=learning_rate)
+              loss='sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+              
+without validation_split
+verbosity = 0
+epochs = 30
+
+Flat + Dense(2*res) + Dense(res) + Dense(num_classes)
+
+Test accuracy for 10 classes width res 24: 0.8999999761581421
+Test accuracy for 10 classes width res 32: 0.9211267828941345
+Test accuracy for 10 classes width res 48: 0.9126760363578796
+
+Test accuracy for 20 classes width res 24: 0.8361064791679382
+Test accuracy for 20 classes width res 32: 0.840266227722168
+Test accuracy for 20 classes width res 48: 0.8410981893539429
+
+Test accuracy for 30 classes width res 24: 0.7505353093147278
+Test accuracy for 30 classes width res 32: 0.7532119750976562
+Test accuracy for 30 classes width res 48: 0.7473233342170715
+
+Test accuracy for 40 classes width res 24: 0.6977309584617615
+Test accuracy for 40 classes width res 32: 0.6774716377258301
+Test accuracy for 40 classes width res 48: 0.7038087248802185
+
+================================================================================================================
+
+model = keras.Sequential([
+    keras.layers.Conv3D(
+            res, 
+            kernel_size=(3), 
+            activation='relu', 
+            kernel_initializer='he_uniform', 
+            data_format="channels_last",
+            input_shape=(res, res, res, num_classes)
+        ),        
+    keras.layers.MaxPooling3D(pool_size=(2, 2, 2)),
+    keras.layers.Flatten(),
+    keras.layers.Dense(res*2, activation='relu'),
+    keras.layers.Dense(res, activation='relu'),
+    keras.layers.Dense(num_classes, activation='softmax')
+    ])
+
+learning_rate = 0.0001
+
+model.compile(optimizer=keras.optimizers.Adam(lr=learning_rate),
+          loss='sparse_categorical_crossentropy',
+          metrics=['accuracy'])
+              
+without validation_split
+verbosity = 0
+epochs = 30
+
+Conv3D + MaxPooling3D + Flatten + Dense(2*res) + Dense(res) + Dense(num_classes)
+
+Test accuracy for 10 classes width res 32: 0.9309859275817871
 
