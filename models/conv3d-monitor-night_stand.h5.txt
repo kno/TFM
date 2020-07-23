@@ -1,0 +1,1 @@
+Test accuracy for monitor-night_stand classes width res 24:0.9569892287254333Test accuracy for monitor-night_stand classes width res 24:0.9619565010070801

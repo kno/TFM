@@ -1,0 +1,1 @@
+Test accuracy for sink-tent classes width res 24:0.550000011920929Test accuracy for sink-tent classes width res 24:0.8684210777282715Test accuracy for sink-tent classes width res 24:0.9210526347160339Test accuracy for sink-tent classes width res 24:0.8421052694320679

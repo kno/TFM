@@ -1,0 +1,1 @@
+Test accuracy for glass_box-radio classes width res 24:0.9083333611488342Test accuracy for glass_box-radio classes width res 24:0.9406779408454895

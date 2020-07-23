@@ -1,0 +1,1 @@
+Test accuracy for lamp-plant classes width res 24:0.875Test accuracy for lamp-plant classes width res 24:0.8813559412956238

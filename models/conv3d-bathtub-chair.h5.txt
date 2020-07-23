@@ -1,0 +1,1 @@
+Test accuracy for bathtub-chair classes width res 24:0.9733333587646484Test accuracy for bathtub-chair classes width res 24:0.9864864945411682Test accuracy for bathtub-chair classes width res 24:0.9864864945411682Test accuracy for bathtub-chair classes width res 24:0.9729729890823364

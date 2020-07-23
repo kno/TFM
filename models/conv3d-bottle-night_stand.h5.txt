@@ -1,0 +1,1 @@
+Test accuracy for bottle-night_stand classes width res 24:0.9731183052062988Test accuracy for bottle-night_stand classes width res 24:0.9728260636329651

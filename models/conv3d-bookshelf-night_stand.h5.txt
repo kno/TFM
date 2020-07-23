@@ -1,0 +1,1 @@
+Test accuracy for bookshelf-night_stand classes width res 24:0.9892473220825195Test accuracy for bookshelf-night_stand classes width res 24:0.97826087474823

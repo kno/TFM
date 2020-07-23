@@ -1,0 +1,1 @@
+Test accuracy for bathtub-toilet classes width res 24:0.9733333587646484Test accuracy for bathtub-toilet classes width res 24:0.9797297120094299Test accuracy for bathtub-toilet classes width res 24:0.9864864945411682Test accuracy for bathtub-toilet classes width res 24:0.9864864945411682

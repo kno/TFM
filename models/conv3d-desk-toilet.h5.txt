@@ -1,0 +1,1 @@
+Test accuracy for desk-toilet classes width res 24:0.9677419066429138Test accuracy for desk-toilet classes width res 24:0.967391312122345

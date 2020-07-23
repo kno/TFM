@@ -1,0 +1,1 @@
+Test accuracy for radio-sofa classes width res 24:0.9833333492279053Test accuracy for radio-sofa classes width res 24:0.9661017060279846

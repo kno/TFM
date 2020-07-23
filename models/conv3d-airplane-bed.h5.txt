@@ -1,0 +1,1 @@
+Test accuracy for airplane-bed classes width res 24:0.9900000095367432Test accuracy for airplane-bed classes width res 24:0.9797979593276978Test accuracy for airplane-bed classes width res 24:0.9848484992980957Test accuracy for airplane-bed classes width res 24:0.9898989796638489

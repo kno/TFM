@@ -1,0 +1,1 @@
+Test accuracy for stool-wardrobe classes width res 24:0.824999988079071Test accuracy for stool-wardrobe classes width res 24:0.7631579041481018

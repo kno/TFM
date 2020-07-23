@@ -1,0 +1,1 @@
+Test accuracy for bed-night_stand classes width res 24:0.9838709831237793Test accuracy for bed-night_stand classes width res 24:0.989130437374115Test accuracy for bed-night_stand classes width res 24:0.9836956262588501Test accuracy for bed-night_stand classes width res 24:0.9836956262588501

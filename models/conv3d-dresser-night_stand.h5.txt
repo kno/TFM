@@ -1,0 +1,1 @@
+Test accuracy for dresser-night_stand classes width res 24:0.8139534592628479Test accuracy for dresser-night_stand classes width res 24:0.8294117450714111

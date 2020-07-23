@@ -1,0 +1,1 @@
+Test accuracy for guitar-wardrobe classes width res 24:0.9666666388511658Test accuracy for guitar-wardrobe classes width res 24:0.9661017060279846

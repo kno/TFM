@@ -1,0 +1,1 @@
+Test accuracy for bowl-toilet classes width res 24:0.9750000238418579Test accuracy for bowl-toilet classes width res 24:0.991525411605835

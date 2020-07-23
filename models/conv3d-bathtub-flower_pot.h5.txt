@@ -1,0 +1,1 @@
+Test accuracy for bathtub-flower_pot classes width res 24:0.9857142567634583Test accuracy for bathtub-flower_pot classes width res 24:0.9558823704719543Test accuracy for bathtub-flower_pot classes width res 24:0.9852941036224365Test accuracy for bathtub-flower_pot classes width res 24:0.970588207244873

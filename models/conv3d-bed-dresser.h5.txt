@@ -1,0 +1,1 @@
+Test accuracy for bed-dresser classes width res 24:0.9946236610412598Test accuracy for bed-dresser classes width res 24:0.9836956262588501Test accuracy for bed-dresser classes width res 24:0.989130437374115Test accuracy for bed-dresser classes width res 24:0.9945651888847351

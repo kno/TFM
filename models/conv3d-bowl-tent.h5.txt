@@ -1,0 +1,1 @@
+Test accuracy for bowl-tent classes width res 24:0.824999988079071Test accuracy for bowl-tent classes width res 24:0.8684210777282715

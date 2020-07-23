@@ -1,0 +1,1 @@
+Test accuracy for bathtub-bowl classes width res 24:0.8857142925262451Test accuracy for bathtub-bowl classes width res 24:0.970588207244873Test accuracy for bathtub-bowl classes width res 24:0.9411764740943909Test accuracy for bathtub-bowl classes width res 24:0.9558823704719543

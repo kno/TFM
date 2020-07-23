@@ -1,0 +1,1 @@
+Test accuracy for piano-plant classes width res 24:0.8949999809265137Test accuracy for piano-plant classes width res 24:0.9040403962135315

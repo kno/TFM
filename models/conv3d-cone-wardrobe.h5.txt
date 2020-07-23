@@ -1,0 +1,1 @@
+Test accuracy for cone-wardrobe classes width res 24:0.800000011920929Test accuracy for cone-wardrobe classes width res 24:0.8157894611358643

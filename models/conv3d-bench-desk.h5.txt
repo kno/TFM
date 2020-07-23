@@ -1,0 +1,1 @@
+Test accuracy for bench-desk classes width res 24:0.9622641801834106Test accuracy for bench-desk classes width res 24:0.942307710647583

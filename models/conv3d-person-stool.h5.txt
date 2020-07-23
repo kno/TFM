@@ -1,0 +1,1 @@
+Test accuracy for person-stool classes width res 24:0.7250000238418579Test accuracy for person-stool classes width res 24:0.8157894611358643

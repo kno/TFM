@@ -1,0 +1,1 @@
+Test accuracy for piano-toilet classes width res 24:0.9599999785423279Test accuracy for piano-toilet classes width res 24:0.9595959782600403

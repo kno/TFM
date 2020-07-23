@@ -1,0 +1,1 @@
+Test accuracy for cone-stairs classes width res 24:0.875Test accuracy for cone-stairs classes width res 24:0.8947368264198303

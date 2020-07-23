@@ -1,0 +1,1 @@
+Test accuracy for bench-curtain classes width res 24:0.949999988079071Test accuracy for bench-curtain classes width res 24:0.9473684430122375

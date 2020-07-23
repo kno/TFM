@@ -1,0 +1,1 @@
+Test accuracy for cup-range_hood classes width res 24:0.9583333134651184Test accuracy for cup-range_hood classes width res 24:0.9406779408454895

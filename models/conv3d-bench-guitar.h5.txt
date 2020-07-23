@@ -1,0 +1,1 @@
+Test accuracy for bench-guitar classes width res 24:0.9916666746139526Test accuracy for bench-guitar classes width res 24:0.9152542352676392

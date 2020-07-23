@@ -1,0 +1,1 @@
+Test accuracy for airplane-laptop classes width res 24:1.0Test accuracy for airplane-laptop classes width res 24:0.991525411605835Test accuracy for airplane-laptop classes width res 24:1.0Test accuracy for airplane-laptop classes width res 24:1.0

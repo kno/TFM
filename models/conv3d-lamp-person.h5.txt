@@ -1,0 +1,1 @@
+Test accuracy for lamp-person classes width res 24:0.8500000238418579Test accuracy for lamp-person classes width res 24:0.8157894611358643

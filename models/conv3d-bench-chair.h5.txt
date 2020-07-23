@@ -1,0 +1,1 @@
+Test accuracy for bench-chair classes width res 24:0.9833333492279053Test accuracy for bench-chair classes width res 24:0.9745762944221497

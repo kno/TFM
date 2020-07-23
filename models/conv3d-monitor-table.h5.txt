@@ -1,0 +1,1 @@
+Test accuracy for monitor-table classes width res 24:0.9900000095367432Test accuracy for monitor-table classes width res 24:1.0

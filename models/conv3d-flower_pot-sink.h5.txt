@@ -1,0 +1,1 @@
+Test accuracy for flower_pot-sink classes width res 24:0.875Test accuracy for flower_pot-sink classes width res 24:0.8421052694320679

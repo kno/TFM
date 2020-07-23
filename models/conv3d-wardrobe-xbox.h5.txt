@@ -1,0 +1,1 @@
+Test accuracy for wardrobe-xbox classes width res 24:0.675000011920929Test accuracy for wardrobe-xbox classes width res 24:0.5789473652839661

@@ -1,0 +1,1 @@
+Test accuracy for desk-vase classes width res 24:0.9677419066429138Test accuracy for desk-vase classes width res 24:0.9728260636329651

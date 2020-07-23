@@ -1,0 +1,1 @@
+Test accuracy for tent-vase classes width res 24:0.9666666388511658Test accuracy for tent-vase classes width res 24:0.9661017060279846

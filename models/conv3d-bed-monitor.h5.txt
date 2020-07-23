@@ -1,0 +1,1 @@
+Test accuracy for bed-monitor classes width res 24:0.9850000143051147Test accuracy for bed-monitor classes width res 24:0.9898989796638489Test accuracy for bed-monitor classes width res 24:0.9949495196342468Test accuracy for bed-monitor classes width res 24:1.0

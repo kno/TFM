@@ -1,0 +1,1 @@
+Test accuracy for desk-tv_stand classes width res 24:0.9516128897666931Test accuracy for desk-tv_stand classes width res 24:0.9347826242446899

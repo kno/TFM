@@ -1,0 +1,1 @@
+Test accuracy for bench-cone classes width res 24:0.925000011920929Test accuracy for bench-cone classes width res 24:0.9210526347160339

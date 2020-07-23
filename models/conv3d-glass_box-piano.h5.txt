@@ -1,0 +1,1 @@
+Test accuracy for glass_box-piano classes width res 24:0.949999988079071Test accuracy for glass_box-piano classes width res 24:0.9646464586257935

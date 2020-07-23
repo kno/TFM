@@ -1,0 +1,1 @@
+Test accuracy for airplane-range_hood classes width res 24:0.9800000190734863Test accuracy for airplane-range_hood classes width res 24:0.9797979593276978Test accuracy for airplane-range_hood classes width res 24:0.9747474789619446Test accuracy for airplane-range_hood classes width res 24:0.9797979593276978

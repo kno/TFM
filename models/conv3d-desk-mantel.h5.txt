@@ -1,0 +1,1 @@
+Test accuracy for desk-mantel classes width res 24:0.9516128897666931Test accuracy for desk-mantel classes width res 24:0.95652174949646

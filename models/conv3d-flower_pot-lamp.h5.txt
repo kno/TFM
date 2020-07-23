@@ -1,0 +1,1 @@
+Test accuracy for flower_pot-lamp classes width res 24:0.800000011920929Test accuracy for flower_pot-lamp classes width res 24:0.8947368264198303

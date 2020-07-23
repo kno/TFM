@@ -1,0 +1,1 @@
+Test accuracy for plant-tent classes width res 24:0.949999988079071Test accuracy for plant-tent classes width res 24:0.991525411605835

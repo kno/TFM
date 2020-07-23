@@ -1,0 +1,1 @@
+Test accuracy for guitar-mantel classes width res 24:0.9900000095367432Test accuracy for guitar-mantel classes width res 24:0.9898989796638489

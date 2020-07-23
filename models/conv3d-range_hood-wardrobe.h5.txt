@@ -1,0 +1,1 @@
+Test accuracy for range_hood-wardrobe classes width res 24:0.949999988079071Test accuracy for range_hood-wardrobe classes width res 24:0.9067796468734741

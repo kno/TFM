@@ -1,0 +1,1 @@
+Test accuracy for dresser-sink classes width res 24:0.9528301954269409Test accuracy for dresser-sink classes width res 24:0.9519230723381042

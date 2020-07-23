@@ -1,0 +1,1 @@
+Test accuracy for plant-table classes width res 24:0.9900000095367432Test accuracy for plant-table classes width res 24:0.9949495196342468

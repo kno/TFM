@@ -1,0 +1,1 @@
+Test accuracy for door-flower_pot classes width res 24:0.949999988079071Test accuracy for door-flower_pot classes width res 24:0.9736841917037964

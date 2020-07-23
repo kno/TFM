@@ -1,0 +1,1 @@
+Test accuracy for lamp-range_hood classes width res 24:0.949999988079071Test accuracy for lamp-range_hood classes width res 24:0.9406779408454895

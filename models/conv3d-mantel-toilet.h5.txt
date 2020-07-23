@@ -1,0 +1,1 @@
+Test accuracy for mantel-toilet classes width res 24:0.9700000286102295Test accuracy for mantel-toilet classes width res 24:0.9797979593276978

@@ -1,0 +1,1 @@
+Test accuracy for bench-glass_box classes width res 24:0.9833333492279053Test accuracy for bench-glass_box classes width res 24:0.991525411605835

@@ -1,0 +1,1 @@
+Test accuracy for bed-range_hood classes width res 24:0.9800000190734863Test accuracy for bed-range_hood classes width res 24:0.9696969985961914Test accuracy for bed-range_hood classes width res 24:0.9595959782600403Test accuracy for bed-range_hood classes width res 24:0.9797979593276978

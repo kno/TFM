@@ -1,0 +1,1 @@
+Test accuracy for bowl-table classes width res 24:0.9666666388511658Test accuracy for bowl-table classes width res 24:0.9830508232116699

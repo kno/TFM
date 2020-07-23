@@ -1,0 +1,1 @@
+Test accuracy for range_hood-xbox classes width res 24:0.925000011920929Test accuracy for range_hood-xbox classes width res 24:0.9237288236618042

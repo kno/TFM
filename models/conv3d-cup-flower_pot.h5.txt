@@ -1,0 +1,1 @@
+Test accuracy for cup-flower_pot classes width res 24:0.699999988079071Test accuracy for cup-flower_pot classes width res 24:0.7894737124443054

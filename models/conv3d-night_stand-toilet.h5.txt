@@ -1,0 +1,1 @@
+Test accuracy for night_stand-toilet classes width res 24:0.9731183052062988Test accuracy for night_stand-toilet classes width res 24:0.945652186870575

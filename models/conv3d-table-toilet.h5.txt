@@ -1,0 +1,1 @@
+Test accuracy for table-toilet classes width res 24:0.9850000143051147Test accuracy for table-toilet classes width res 24:0.9848484992980957

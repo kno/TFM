@@ -1,0 +1,1 @@
+Test accuracy for cup-person classes width res 24:0.8999999761581421Test accuracy for cup-person classes width res 24:0.8947368264198303
