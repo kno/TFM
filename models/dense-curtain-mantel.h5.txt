@@ -1,0 +1,1 @@
+Test accuracy for curtain-mantel classes width res 24:0.9491525292396545

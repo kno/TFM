@@ -1,0 +1,1 @@
+Test accuracy for curtain-door classes width res 24:0.8157894611358643

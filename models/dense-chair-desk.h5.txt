@@ -1,0 +1,1 @@
+Test accuracy for chair-desk classes width res 24:0.9836956262588501
