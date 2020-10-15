@@ -1,0 +1,1 @@
+Test accuracy for keyboard-tv_stand classes width res 24:0.9661017060279846

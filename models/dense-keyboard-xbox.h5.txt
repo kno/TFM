@@ -1,0 +1,1 @@
+Test accuracy for keyboard-xbox classes width res 24:0.9473684430122375
