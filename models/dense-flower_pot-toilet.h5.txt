@@ -1,0 +1,1 @@
+Test accuracy for flower_pot-toilet classes width res 24:0.9830508232116699
