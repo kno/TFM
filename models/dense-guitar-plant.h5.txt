@@ -1,0 +1,1 @@
+Test accuracy for guitar-plant classes width res 24:0.9292929172515869
