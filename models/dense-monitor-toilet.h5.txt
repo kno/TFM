@@ -1,0 +1,1 @@
+Test accuracy for monitor-toilet classes width res 24:0.9797979593276978

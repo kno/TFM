@@ -1,0 +1,1 @@
+Test accuracy for mantel-night_stand classes width res 24:0.967391312122345
