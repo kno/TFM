@@ -1,0 +1,1 @@
+Test accuracy for tv_stand-vase classes width res 24:0.9141414165496826
