@@ -1,0 +1,1 @@
+Test accuracy for stool-table classes width res 24:0.991525411605835

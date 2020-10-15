@@ -1,0 +1,1 @@
+Test accuracy for sink-tv_stand classes width res 24:0.8644067645072937

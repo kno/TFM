@@ -1,0 +1,1 @@
+Test accuracy for stool-xbox classes width res 24:0.8421052694320679
