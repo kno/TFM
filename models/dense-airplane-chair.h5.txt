@@ -1,0 +1,1 @@
+Test accuracy for airplane-chair classes width res 24:0.9949495196342468
