@@ -1,5 +1,5 @@
 #!/bin/bash
-SIZE=5
+SIZE=30
 VOXELIZE_COMMAND="/home/kno/Documentos/Master/TFM/Modelnet/_ZernikeMoments/lib/main"
 for i in `ls`; do
   if [[ -d $i ]]; then
