@@ -1,0 +1,1 @@
+Test accuracy for bookshelf-xbox classes width res 24:0.9576271176338196

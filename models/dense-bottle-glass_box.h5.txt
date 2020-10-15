@@ -1,0 +1,1 @@
+Test accuracy for bottle-glass_box classes width res 24:0.9898989796638489

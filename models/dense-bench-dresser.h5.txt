@@ -1,0 +1,1 @@
+Test accuracy for bench-dresser classes width res 24:1.0

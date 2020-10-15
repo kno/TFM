@@ -1,0 +1,1 @@
+Test accuracy for bathtub-bed classes width res 24:0.912162184715271

@@ -1,0 +1,1 @@
+Test accuracy for bottle-desk classes width res 24:0.929347813129425

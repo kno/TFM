@@ -1,0 +1,1 @@
+Test accuracy for bathtub-dresser classes width res 24:0.9925373196601868

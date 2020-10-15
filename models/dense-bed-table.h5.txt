@@ -1,0 +1,1 @@
+Test accuracy for bed-table classes width res 24:0.9747474789619446

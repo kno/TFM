@@ -1,0 +1,1 @@
+Test accuracy for bottle-vase classes width res 24:0.8383838534355164

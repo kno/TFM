@@ -1,0 +1,1 @@
+Test accuracy for bowl-stairs classes width res 24:0.7368420958518982

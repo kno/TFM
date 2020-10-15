@@ -1,0 +1,1 @@
+Test accuracy for bed-car classes width res 24:0.9898989796638489
