@@ -1,0 +1,1 @@
+Test accuracy for door-guitar classes width res 24:1.0

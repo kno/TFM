@@ -1,0 +1,1 @@
+Test accuracy for desk-guitar classes width res 24:0.9402173757553101

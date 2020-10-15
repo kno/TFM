@@ -1,0 +1,1 @@
+Test accuracy for door-laptop classes width res 24:1.0
