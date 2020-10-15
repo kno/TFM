@@ -1,0 +1,1 @@
+Test accuracy for range_hood-sink classes width res 24:0.8983050584793091

@@ -1,0 +1,1 @@
+Test accuracy for radio-xbox classes width res 24:0.8421052694320679
