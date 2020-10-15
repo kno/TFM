@@ -1,0 +1,1 @@
+Test accuracy for person-plant classes width res 24:0.8474576473236084

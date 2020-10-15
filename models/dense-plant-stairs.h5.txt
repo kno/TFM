@@ -1,0 +1,1 @@
+Test accuracy for plant-stairs classes width res 24:0.8559321761131287
