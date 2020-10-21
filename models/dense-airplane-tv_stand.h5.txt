@@ -1,0 +1,1 @@
+Test accuracy for airplane-tv_stand classes width res 24:0.9848484992980957

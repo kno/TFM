@@ -1,0 +1,1 @@
+Test accuracy for airplane-glass_box classes width res 24:1.0Test accuracy for airplane-glass_box classes width res 24:1.0Test accuracy for airplane-glass_box classes width res 24:0.9949495196342468Test accuracy for airplane-glass_box classes width res 24:0.9949495196342468

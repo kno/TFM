@@ -1,0 +1,1 @@
+Test accuracy for range_hood-vase classes width res 24:0.949999988079071Test accuracy for range_hood-vase classes width res 24:0.9595959782600403

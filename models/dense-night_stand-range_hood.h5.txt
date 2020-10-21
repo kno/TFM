@@ -1,0 +1,1 @@
+Test accuracy for night_stand-range_hood classes width res 24:0.989130437374115

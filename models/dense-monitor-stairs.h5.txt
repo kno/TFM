@@ -1,0 +1,1 @@
+Test accuracy for monitor-stairs classes width res 24:0.9661017060279846

@@ -1,0 +1,1 @@
+Test accuracy for lamp-wardrobe classes width res 24:0.7749999761581421Test accuracy for lamp-wardrobe classes width res 24:0.7894737124443054

@@ -1,0 +1,1 @@
+Test accuracy for bench-range_hood classes width res 24:0.9416666626930237Test accuracy for bench-range_hood classes width res 24:0.9576271176338196

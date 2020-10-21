@@ -1,0 +1,1 @@
+Test accuracy for bottle-flower_pot classes width res 24:0.9152542352676392

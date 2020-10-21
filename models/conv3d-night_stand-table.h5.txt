@@ -1,0 +1,1 @@
+Test accuracy for night_stand-table classes width res 24:0.9677419066429138Test accuracy for night_stand-table classes width res 24:0.929347813129425

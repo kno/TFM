@@ -1,0 +1,1 @@
+Test accuracy for dresser-tv_stand classes width res 24:0.9731183052062988Test accuracy for dresser-tv_stand classes width res 24:0.9619565010070801

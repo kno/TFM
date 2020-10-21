@@ -1,0 +1,1 @@
+Test accuracy for car-plant classes width res 24:0.9649999737739563Test accuracy for car-plant classes width res 24:0.9747474789619446

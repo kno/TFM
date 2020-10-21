@@ -1,0 +1,1 @@
+Test accuracy for bookshelf-wardrobe classes width res 24:0.8916666507720947Test accuracy for bookshelf-wardrobe classes width res 24:0.8898305296897888

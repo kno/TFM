@@ -1,0 +1,1 @@
+Test accuracy for dresser-radio classes width res 24:0.9716981053352356Test accuracy for dresser-radio classes width res 24:0.932692289352417

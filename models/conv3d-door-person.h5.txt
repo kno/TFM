@@ -1,0 +1,1 @@
+Test accuracy for door-person classes width res 24:0.7749999761581421Test accuracy for door-person classes width res 24:0.9210526347160339

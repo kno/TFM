@@ -1,0 +1,1 @@
+Test accuracy for bench-bowl classes width res 24:0.800000011920929Test accuracy for bench-bowl classes width res 24:0.8421052694320679

@@ -1,0 +1,1 @@
+Test accuracy for flower_pot-table classes width res 24:1.0

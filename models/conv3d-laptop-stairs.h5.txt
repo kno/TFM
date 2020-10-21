@@ -1,0 +1,1 @@
+Test accuracy for laptop-stairs classes width res 24:0.9750000238418579Test accuracy for laptop-stairs classes width res 24:0.9736841917037964

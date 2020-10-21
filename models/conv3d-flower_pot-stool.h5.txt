@@ -1,0 +1,1 @@
+Test accuracy for flower_pot-stool classes width res 24:0.875Test accuracy for flower_pot-stool classes width res 24:0.8684210777282715

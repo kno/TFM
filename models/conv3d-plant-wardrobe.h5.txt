@@ -1,0 +1,1 @@
+Test accuracy for plant-wardrobe classes width res 24:0.9083333611488342Test accuracy for plant-wardrobe classes width res 24:0.9067796468734741

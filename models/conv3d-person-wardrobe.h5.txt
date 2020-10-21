@@ -1,0 +1,1 @@
+Test accuracy for person-wardrobe classes width res 24:0.824999988079071Test accuracy for person-wardrobe classes width res 24:0.8157894611358643

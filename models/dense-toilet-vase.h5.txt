@@ -1,0 +1,1 @@
+Test accuracy for toilet-vase classes width res 24:0.9797979593276978

@@ -1,0 +1,1 @@
+Test accuracy for bench-tv_stand classes width res 24:0.8728813529014587

@@ -1,0 +1,1 @@
+Test accuracy for keyboard-wardrobe classes width res 24:0.8999999761581421Test accuracy for keyboard-wardrobe classes width res 24:0.8684210777282715

@@ -1,0 +1,1 @@
+Test accuracy for bed-stairs classes width res 24:0.9666666388511658Test accuracy for bed-stairs classes width res 24:0.9661017060279846Test accuracy for bed-stairs classes width res 24:0.9830508232116699Test accuracy for bed-stairs classes width res 24:0.9661017060279846

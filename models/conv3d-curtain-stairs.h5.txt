@@ -1,0 +1,1 @@
+Test accuracy for curtain-stairs classes width res 24:0.925000011920929Test accuracy for curtain-stairs classes width res 24:0.9473684430122375

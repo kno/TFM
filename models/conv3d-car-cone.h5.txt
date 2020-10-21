@@ -1,0 +1,1 @@
+Test accuracy for car-cone classes width res 24:0.9666666388511658Test accuracy for car-cone classes width res 24:0.9576271176338196

@@ -1,0 +1,1 @@
+Test accuracy for bookshelf-dresser classes width res 24:0.9946236610412598Test accuracy for bookshelf-dresser classes width res 24:0.989130437374115

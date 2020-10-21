@@ -1,0 +1,1 @@
+Test accuracy for bottle-sofa classes width res 24:0.9950000047683716Test accuracy for bottle-sofa classes width res 24:0.9949495196342468

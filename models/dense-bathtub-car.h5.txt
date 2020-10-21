@@ -1,0 +1,1 @@
+Test accuracy for bathtub-car classes width res 24:0.9729729890823364

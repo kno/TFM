@@ -1,0 +1,1 @@
+Test accuracy for sink-wardrobe classes width res 24:0.824999988079071Test accuracy for sink-wardrobe classes width res 24:0.7894737124443054

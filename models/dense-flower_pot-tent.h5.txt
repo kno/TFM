@@ -1,0 +1,1 @@
+Test accuracy for flower_pot-tent classes width res 24:0.9736841917037964

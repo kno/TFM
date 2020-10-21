@@ -1,0 +1,1 @@
+Test accuracy for airplane-bottle classes width res 24:0.9700000286102295Test accuracy for airplane-bottle classes width res 24:0.9747474789619446Test accuracy for airplane-bottle classes width res 24:0.9747474789619446Test accuracy for airplane-bottle classes width res 24:0.9747474789619446

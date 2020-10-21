@@ -1,0 +1,1 @@
+Test accuracy for laptop-tv_stand classes width res 24:0.9583333134651184Test accuracy for laptop-tv_stand classes width res 24:0.9745762944221497

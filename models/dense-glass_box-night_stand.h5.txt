@@ -1,0 +1,1 @@
+Test accuracy for glass_box-night_stand classes width res 24:0.97826087474823

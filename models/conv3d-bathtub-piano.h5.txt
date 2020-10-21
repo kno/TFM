@@ -1,0 +1,1 @@
+Test accuracy for bathtub-piano classes width res 24:0.9800000190734863Test accuracy for bathtub-piano classes width res 24:0.9797297120094299Test accuracy for bathtub-piano classes width res 24:0.9594594836235046Test accuracy for bathtub-piano classes width res 24:0.9729729890823364

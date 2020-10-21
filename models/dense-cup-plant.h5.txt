@@ -1,0 +1,1 @@
+Test accuracy for cup-plant classes width res 24:0.9237288236618042

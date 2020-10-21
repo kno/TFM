@@ -1,0 +1,1 @@
+Test accuracy for bottle-plant classes width res 24:0.8787878751754761

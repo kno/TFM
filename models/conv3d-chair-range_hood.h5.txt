@@ -1,0 +1,1 @@
+Test accuracy for chair-range_hood classes width res 24:0.9350000023841858Test accuracy for chair-range_hood classes width res 24:0.9343434572219849

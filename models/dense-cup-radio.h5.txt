@@ -1,0 +1,1 @@
+Test accuracy for cup-radio classes width res 24:0.8684210777282715

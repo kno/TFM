@@ -1,0 +1,1 @@
+Test accuracy for car-stool classes width res 24:1.0Test accuracy for car-stool classes width res 24:1.0

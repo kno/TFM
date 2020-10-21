@@ -1,0 +1,1 @@
+Test accuracy for piano-sink classes width res 24:0.8916666507720947Test accuracy for piano-sink classes width res 24:0.8644067645072937

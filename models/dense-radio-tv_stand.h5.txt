@@ -1,0 +1,1 @@
+Test accuracy for radio-tv_stand classes width res 24:0.8389830589294434

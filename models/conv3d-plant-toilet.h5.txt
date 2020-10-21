@@ -1,0 +1,1 @@
+Test accuracy for plant-toilet classes width res 24:0.9800000190734863Test accuracy for plant-toilet classes width res 24:0.9797979593276978

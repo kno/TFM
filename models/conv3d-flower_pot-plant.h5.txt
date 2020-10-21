@@ -1,0 +1,1 @@
+Test accuracy for flower_pot-plant classes width res 24:0.7666666507720947Test accuracy for flower_pot-plant classes width res 24:0.7711864113807678

@@ -1,0 +1,1 @@
+Test accuracy for desk-plant classes width res 24:0.9784946441650391Test accuracy for desk-plant classes width res 24:0.9836956262588501

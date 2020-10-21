@@ -1,0 +1,1 @@
+Test accuracy for airplane-bathtub classes width res 24:0.9594594836235046

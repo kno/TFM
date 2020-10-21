@@ -1,0 +1,1 @@
+Test accuracy for radio-table classes width res 24:0.9833333492279053Test accuracy for radio-table classes width res 24:0.9830508232116699

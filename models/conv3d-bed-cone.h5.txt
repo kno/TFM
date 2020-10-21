@@ -1,0 +1,1 @@
+Test accuracy for bed-cone classes width res 24:0.9916666746139526Test accuracy for bed-cone classes width res 24:0.991525411605835Test accuracy for bed-cone classes width res 24:0.991525411605835Test accuracy for bed-cone classes width res 24:0.991525411605835

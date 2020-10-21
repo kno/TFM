@@ -1,0 +1,1 @@
+Test accuracy for desk-monitor classes width res 24:0.9619565010070801

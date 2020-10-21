@@ -1,0 +1,1 @@
+Test accuracy for dresser-vase classes width res 24:0.945652186870575

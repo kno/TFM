@@ -1,0 +1,1 @@
+Test accuracy for desk-range_hood classes width res 24:0.9838709831237793Test accuracy for desk-range_hood classes width res 24:0.97826087474823

@@ -1,0 +1,1 @@
+Test accuracy for mantel-monitor classes width res 24:0.9649999737739563Test accuracy for mantel-monitor classes width res 24:0.9595959782600403

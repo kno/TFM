@@ -1,0 +1,1 @@
+Test accuracy for night_stand-radio classes width res 24:0.9433962106704712Test accuracy for night_stand-radio classes width res 24:0.9615384340286255

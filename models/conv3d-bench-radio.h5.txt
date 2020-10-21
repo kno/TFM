@@ -1,0 +1,1 @@
+Test accuracy for bench-radio classes width res 24:0.7250000238418579Test accuracy for bench-radio classes width res 24:0.8947368264198303

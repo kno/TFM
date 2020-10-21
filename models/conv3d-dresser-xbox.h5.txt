@@ -1,0 +1,1 @@
+Test accuracy for dresser-xbox classes width res 24:0.9245283007621765Test accuracy for dresser-xbox classes width res 24:0.942307710647583

@@ -1,0 +1,1 @@
+Test accuracy for bowl-sofa classes width res 24:1.0Test accuracy for bowl-sofa classes width res 24:0.991525411605835

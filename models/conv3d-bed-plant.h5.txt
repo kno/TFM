@@ -1,0 +1,1 @@
+Test accuracy for bed-plant classes width res 24:0.9900000095367432Test accuracy for bed-plant classes width res 24:0.9898989796638489Test accuracy for bed-plant classes width res 24:0.9949495196342468Test accuracy for bed-plant classes width res 24:0.9898989796638489

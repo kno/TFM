@@ -1,0 +1,1 @@
+Test accuracy for plant-sink classes width res 24:0.9416666626930237Test accuracy for plant-sink classes width res 24:0.9322034120559692

@@ -1,0 +1,1 @@
+Test accuracy for bed-guitar classes width res 24:0.9900000095367432Test accuracy for bed-guitar classes width res 24:0.9797979593276978Test accuracy for bed-guitar classes width res 24:0.9696969985961914Test accuracy for bed-guitar classes width res 24:0.9696969985961914

@@ -1,0 +1,1 @@
+Test accuracy for bench-night_stand classes width res 24:0.9711538553237915

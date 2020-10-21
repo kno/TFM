@@ -1,0 +1,1 @@
+Test accuracy for bowl-glass_box classes width res 24:0.9067796468734741

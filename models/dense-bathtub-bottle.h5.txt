@@ -1,0 +1,1 @@
+Test accuracy for bathtub-bottle classes width res 24:0.9189189076423645

@@ -1,0 +1,1 @@
+Test accuracy for range_hood-stairs classes width res 24:0.8916666507720947Test accuracy for range_hood-stairs classes width res 24:0.9067796468734741

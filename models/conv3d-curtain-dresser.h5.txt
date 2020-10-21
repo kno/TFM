@@ -1,0 +1,1 @@
+Test accuracy for curtain-dresser classes width res 24:0.9905660152435303Test accuracy for curtain-dresser classes width res 24:0.9903846383094788

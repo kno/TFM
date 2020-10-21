@@ -1,0 +1,1 @@
+Test accuracy for desk-sofa classes width res 24:0.9462365508079529Test accuracy for desk-sofa classes width res 24:0.9510869383811951

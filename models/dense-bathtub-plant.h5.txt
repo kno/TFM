@@ -1,0 +1,1 @@
+Test accuracy for bathtub-plant classes width res 24:0.9864864945411682

@@ -1,0 +1,1 @@
+Test accuracy for chair-stairs classes width res 24:0.925000011920929Test accuracy for chair-stairs classes width res 24:0.9491525292396545

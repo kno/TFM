@@ -1,0 +1,1 @@
+Test accuracy for bathtub-radio classes width res 24:0.9411764740943909

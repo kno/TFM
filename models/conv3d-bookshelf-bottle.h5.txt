@@ -1,0 +1,1 @@
+Test accuracy for bookshelf-bottle classes width res 24:0.949999988079071Test accuracy for bookshelf-bottle classes width res 24:0.9646464586257935

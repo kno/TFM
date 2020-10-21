@@ -1,0 +1,1 @@
+Test accuracy for bathtub-desk classes width res 24:0.9852941036224365Test accuracy for bathtub-desk classes width res 24:0.9850746393203735Test accuracy for bathtub-desk classes width res 24:0.9552238583564758Test accuracy for bathtub-desk classes width res 24:0.9925373196601868

@@ -1,0 +1,1 @@
+Test accuracy for glass_box-vase classes width res 24:0.9649999737739563Test accuracy for glass_box-vase classes width res 24:0.9646464586257935

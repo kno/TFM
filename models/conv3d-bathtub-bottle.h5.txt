@@ -1,0 +1,1 @@
+Test accuracy for bathtub-bottle classes width res 24:1.0Test accuracy for bathtub-bottle classes width res 24:0.9797297120094299Test accuracy for bathtub-bottle classes width res 24:0.9932432174682617Test accuracy for bathtub-bottle classes width res 24:0.9932432174682617

@@ -1,0 +1,1 @@
+Test accuracy for airplane-piano classes width res 24:0.9700000286102295Test accuracy for airplane-piano classes width res 24:0.9696969985961914Test accuracy for airplane-piano classes width res 24:0.9696969985961914Test accuracy for airplane-piano classes width res 24:0.9646464586257935

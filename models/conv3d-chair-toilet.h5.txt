@@ -1,0 +1,1 @@
+Test accuracy for chair-toilet classes width res 24:0.9599999785423279Test accuracy for chair-toilet classes width res 24:0.9646464586257935

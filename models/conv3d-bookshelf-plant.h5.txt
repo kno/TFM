@@ -1,0 +1,1 @@
+Test accuracy for bookshelf-plant classes width res 24:0.925000011920929Test accuracy for bookshelf-plant classes width res 24:0.9292929172515869

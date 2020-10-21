@@ -1,0 +1,1 @@
+Test accuracy for table-vase classes width res 24:0.9797979593276978

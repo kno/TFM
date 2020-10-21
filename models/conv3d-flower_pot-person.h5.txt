@@ -1,0 +1,1 @@
+Test accuracy for flower_pot-person classes width res 24:0.824999988079071Test accuracy for flower_pot-person classes width res 24:0.7105262875556946

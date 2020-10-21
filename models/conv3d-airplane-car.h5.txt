@@ -1,0 +1,1 @@
+Test accuracy for airplane-car classes width res 24:0.9750000238418579Test accuracy for airplane-car classes width res 24:0.9696969985961914Test accuracy for airplane-car classes width res 24:0.9646464586257935Test accuracy for airplane-car classes width res 24:0.9747474789619446

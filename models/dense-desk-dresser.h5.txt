@@ -1,0 +1,1 @@
+Test accuracy for desk-dresser classes width res 24:0.9352940917015076

@@ -1,0 +1,1 @@
+Test accuracy for bench-piano classes width res 24:0.8983050584793091

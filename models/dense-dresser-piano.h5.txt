@@ -1,0 +1,1 @@
+Test accuracy for dresser-piano classes width res 24:0.9945651888847351

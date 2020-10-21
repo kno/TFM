@@ -1,0 +1,1 @@
+Test accuracy for guitar-keyboard classes width res 24:0.9166666865348816Test accuracy for guitar-keyboard classes width res 24:0.9152542352676392

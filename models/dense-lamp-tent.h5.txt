@@ -1,0 +1,1 @@
+Test accuracy for lamp-tent classes width res 24:1.0

@@ -1,0 +1,1 @@
+Test accuracy for sink-toilet classes width res 24:0.949999988079071Test accuracy for sink-toilet classes width res 24:0.9491525292396545

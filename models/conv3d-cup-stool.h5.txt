@@ -1,0 +1,1 @@
+Test accuracy for cup-stool classes width res 24:0.925000011920929Test accuracy for cup-stool classes width res 24:0.8684210777282715

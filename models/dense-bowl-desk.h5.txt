@@ -1,0 +1,1 @@
+Test accuracy for bowl-desk classes width res 24:0.9134615659713745

@@ -1,0 +1,1 @@
+Test accuracy for desk-tent classes width res 24:0.9528301954269409Test accuracy for desk-tent classes width res 24:0.9230769276618958

@@ -1,0 +1,1 @@
+Test accuracy for bookshelf-piano classes width res 24:0.9399999976158142Test accuracy for bookshelf-piano classes width res 24:0.9242424368858337

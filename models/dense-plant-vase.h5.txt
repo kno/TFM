@@ -1,0 +1,1 @@
+Test accuracy for plant-vase classes width res 24:0.808080792427063

@@ -1,0 +1,1 @@
+Test accuracy for bathtub-stairs classes width res 24:0.9264705777168274

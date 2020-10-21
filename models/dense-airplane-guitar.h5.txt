@@ -1,0 +1,1 @@
+Test accuracy for airplane-guitar classes width res 24:0.9595959782600403

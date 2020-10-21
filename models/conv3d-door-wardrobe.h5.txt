@@ -1,0 +1,1 @@
+Test accuracy for door-wardrobe classes width res 24:0.8500000238418579Test accuracy for door-wardrobe classes width res 24:0.8684210777282715

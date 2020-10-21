@@ -1,0 +1,1 @@
+Test accuracy for car-sofa classes width res 24:0.9950000047683716Test accuracy for car-sofa classes width res 24:0.9898989796638489

@@ -1,0 +1,1 @@
+Test accuracy for desk-lamp classes width res 24:0.9807692170143127

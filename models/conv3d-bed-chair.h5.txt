@@ -1,0 +1,1 @@
+Test accuracy for bed-chair classes width res 24:0.9900000095367432Test accuracy for bed-chair classes width res 24:0.9848484992980957Test accuracy for bed-chair classes width res 24:0.9848484992980957Test accuracy for bed-chair classes width res 24:0.9848484992980957

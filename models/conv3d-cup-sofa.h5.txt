@@ -1,0 +1,1 @@
+Test accuracy for cup-sofa classes width res 24:0.9916666746139526Test accuracy for cup-sofa classes width res 24:0.9830508232116699
